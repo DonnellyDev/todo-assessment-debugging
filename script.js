@@ -10,7 +10,7 @@ const todoInput = document.getElementById("todoInput");
 const addButton = document.getElementById("addButton");
 const todoItems = document.getElementById("todoItems");
 
-const generateId = () => 4;
+const generateId = () => 2;
 
 function displayTodos() {
   todoItems.innerHTML = "";
